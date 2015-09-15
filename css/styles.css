@@ -1,3 +1,22 @@
 .intro {
   font-style: italic;
 }
+
+#loadimage {
+  width: 200px;
+  float: left;
+}
+
+div {
+  width: 30%;
+  float: left;
+}
+
+.sidebar {
+  border: solid; 3px;
+  padding: 5px;
+  margin: 10px;
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
